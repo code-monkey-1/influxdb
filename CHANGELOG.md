@@ -1,3 +1,10 @@
+## v0.13.0 [unreleased]
+
+### Features
+
+- [#6228](https://github.com/influxdata/influxdb/pull/6228): Support for multiple listeners for collectd and OpenTSDB inputs.
+
+
 ## v0.12.0 [2016-04-05]
 ### Release Notes
 Upgrading to this release requires a little more than just installing the new binary and starting it up. The upgrade process is very quick and should only require a minute of downtime or less. Details on [upgrading to 0.12 are here](https://docs.influxdata.com/influxdb/v0.12/administration/upgrading/).
